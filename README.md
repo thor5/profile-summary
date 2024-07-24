@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Alexander Kazantsev</h1>
-    <h3>Frontend Developer</h3>
+    <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp; Frontend Developer</h3>
 </div>
 
 <div id="socials" align="center">
